@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company_names" >
+        <item>Công ty 1</item>
+        <item>Công ty 2</item>
+        <item>Công ty 3</item>
+        <item>Công ty 4</item>
+    </string-array>
+</resources>
